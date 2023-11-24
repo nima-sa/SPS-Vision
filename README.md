@@ -4,11 +4,11 @@ Refer to [SPS Vision Net: Measuring Sensory Processing Sensitivity via an Artifi
 
 Citation:
 ```
-@article{Sadeghzadeh2023,
+@article{sadeghzadeh2023sps,
   title={SPS Vision Net: Measuring Sensory Processing Sensitivity via an Artificial Neural Network},
-  author={Sadeghzadeh, Nima and Farajzadeh, Nacer and Dattatri, Novia and Acevedo, Bianca P.},
+  author={Sadeghzadeh, Nima and Farajzadeh, Nacer and Dattatri, Novia and Acevedo, Bianca P},
   journal={Cognitive Computation},
-  pages={1866-9964},
+  pages={1--14},
   year={2023},
   publisher={Springer}
 }
